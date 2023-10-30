@@ -2,7 +2,14 @@
 
 ## Experience
 - 2023- Data Engineer, Solita
-- 2017-2023 PhD student, Tampere University
+- 2017-2023 PhD student/researcher, Tampere University
+
+## Professional Interests
+
+- ML/AI
+- Utilizing AI to enhance DE workflows
+- Probabilistic programming
+- Algorithms
 
 ## Research/publications
 My research is focused on the algebraic theory of topological data analysis. I'm interested in utilizing (minimal) resolutions to develop computable and interpretable representations and invariants for multiparameter persistent (co)homology and persistence modules more generally.
@@ -12,6 +19,6 @@ My research is focused on the algebraic theory of topological data analysis. I'm
 
 ## Education
 - 2017-2023, PhD, Mathematics, Tampere University  
-Topic: topological data analysis  
+Field: Topological Data Analysis  
 Thesis: Flat Covers and Cotorsion in Persistence, https://urn.fi/URN:ISBN:978-952-03-3058-3
-- 2013-2017, BSc and MSc, Mathematics, University of Tampere
+- 2013-2017, MSc (and BSc), Mathematics, University of Tampere
