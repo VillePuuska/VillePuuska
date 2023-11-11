@@ -5,11 +5,19 @@
 - 2017-2023 PhD student/researcher, Tampere University
 
 ## Professional Interests
-
 - ML/AI
-- Utilizing AI to enhance DE workflows
-- Probabilistic programming
+- Predictive modeling (ML and statistical)
+- Data Engineering in support of analytics and data science
+
+## Personal Interests
+- Topological Data Analysis
+- Probabilistic programming and Bayesian statistics
 - Algorithms
+
+## Tech
+- Python, R, SQL
+- Snowflake
+- Azure
 
 ## Research/publications
 My research is focused on the algebraic theory of topological data analysis. I'm interested in utilizing (minimal) resolutions to develop computable and interpretable representations and invariants for multiparameter persistent (co)homology and persistence modules more generally.
