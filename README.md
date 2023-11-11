@@ -27,6 +27,7 @@ My research is focused on the algebraic theory of topological data analysis. I'm
 
 ## Education
 - 2017-2023, PhD, Mathematics, Tampere University  
+Advisor: Professor Eero Hyry, Tampere University  
 Field: Topological Data Analysis  
-Thesis: Flat Covers and Cotorsion in Persistence, https://urn.fi/URN:ISBN:978-952-03-3058-3
+Thesis: Flat Covers and Cotorsion in Persistence https://urn.fi/URN:ISBN:978-952-03-3058-3
 - 2013-2017, MSc (and BSc), Mathematics, University of Tampere
