@@ -4,22 +4,18 @@
 - 2023- Data Engineer, Solita
 - 2017-2023 PhD student/researcher, Tampere University
 
-## Professional Interests
-- ML/AI
-- Predictive modeling (ML and statistical)
-- Data Engineering in support of analytics and data science
+## Interests
+- Data engineering in support of analytics and data science
+- ML/AI, Predictive modeling
+- Data structures and algorithms
 
-## Personal Interests
-- Topological Data Analysis
-- Probabilistic programming and Bayesian statistics
-- Algorithms
-
-## Tech
-- Python, R, SQL
-- Snowflake
+## Technologies and Skills
+- Python, SQL (and a bit of R, Go, and Haskell)
+- Airflow, Microsoft Fabric, Podman, Postgres, Power BI, Snowflake
+- Data Vault 2.0 and Dimensional Modeling
 - Azure
 
-## Research/publications
+## Research and Publications
 My research is focused on the algebraic theory of topological data analysis. I'm interested in utilizing (minimal) resolutions to develop computable and interpretable representations and invariants for multiparameter persistent (co)homology and persistence modules more generally.
 - Eero Hyry and Ville Puuska, [Flat covers and injective hulls of persistence modules](https://arxiv.org/abs/2310.00733), submitted, preprint arXiv:2310.00733 \[math.AC\]
 - Ville Puuska, [Duality between injective envelopes and flat covers](https://doi.org/10.1016/j.jpaa.2023.107542), Journal of Pure and Applied Algebra 228(2024), DOI 10.1016/j.jpaa.2023.107542
