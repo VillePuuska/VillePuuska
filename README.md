@@ -10,16 +10,20 @@
 
 ### Interests
 - Streaming data pipelines
-- Distributed data processing
 - Event driven architectures and data pipelines
 
 ### Tech at work
-- PySpark, Spark SQL, R
+- Python, PySpark, Spark SQL, R when absolutely necessary
 - Azure Data Factory, Databricks
 
 ### Tech at home
-- Python and a bit of Go and Haskell
-- Airflow, Docker/Podman, DuckDB, Kafka, Postgres
+- Python and a bit of Go
+- Airflow, Docker, DuckDB, Kafka, Polars, Postgres
+
+### What I'm trying/planning to learn
+- API development / FastAPI
+- K8s
+- Streaming and stream processing / Kafka & Flink
 
 ---
 
