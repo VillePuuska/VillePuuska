@@ -9,8 +9,9 @@
 ## Data engineering
 
 ### Interests
-- Streaming data pipelines
+- Designing and building E2E testable data pipelines
 - Event driven architectures and data pipelines
+- Streaming data pipelines
 
 ### Tech at work
 - Python, PySpark, Spark SQL, R when absolutely necessary
@@ -19,11 +20,6 @@
 ### Tech at home
 - Python and a bit of Go
 - Airflow, Docker, DuckDB, Kafka, Polars, Postgres
-
-### What I'm trying/planning to learn
-- API development / FastAPI
-- K8s
-- Streaming and stream processing / Kafka & Flink
 
 ---
 
