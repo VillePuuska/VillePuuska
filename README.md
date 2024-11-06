@@ -9,7 +9,7 @@
 ## Data engineering
 
 ### Interests
-- Designing and building E2E testable data pipelines
+- Portable/headless data platforms
 - Event driven architectures and data pipelines
 - Streaming data pipelines
 
@@ -18,7 +18,7 @@
 - Azure Data Factory, Databricks
 
 ### Tech at home
-- Python and a bit of Go
+- Python (and a bit of Go, Rust, and Scala)
 - Airflow, Docker, DuckDB, Kafka, Polars, Postgres
 
 ---
