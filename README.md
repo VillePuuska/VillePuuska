@@ -15,8 +15,8 @@
 - Streaming data pipelines
 
 ### Tech at work
-- Python, PySpark, Spark SQL, R when absolutely necessary
-- Azure Data Factory, Databricks
+- Python, PySpark, Spark SQL
+- AWS & Azure, Databricks (Asset Bundles & Workflows), Kafka
 
 ### Tech at home
 - Python (and a bit of Go, Rust, and Scala)
