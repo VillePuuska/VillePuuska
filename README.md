@@ -1,7 +1,8 @@
 # Ville Puuska
 
 ### Experience
-- 2025- Data Engineer, OP
+- 2026- Senior Data Engineer, OP
+- 2025-2026 Data Engineer, OP
 - 2023-2025 Data Engineer, Solita
 - 2017-2023 PhD student/researcher, Tampere University
 
